@@ -1,4 +1,4 @@
-/* Navigation */
+ Navigation
 #navbar {
     flex-direction: column;
 }
@@ -8,8 +8,8 @@
     padding: 0px 7px;
     padding-bottom: 8px;
 }
-/* Home section */
-#home{
+ Home section 
+ #home{
     height: 370px; 
     padding: 3px 28px;
 }
@@ -22,7 +22,7 @@
     font-size: 13px;
 }
 
-/* Services section  */
+ Services section  
 #services{
     flex-direction: column;
 }
@@ -35,7 +35,7 @@
 
 /* Clients section */
 #clients{
-    flex-wrap: wrap;
+     flex-wrap: wrap; 
 }
 
 #clients img{
@@ -57,4 +57,4 @@
 .btn{
     font-size: 13px;
     padding: 4px 8px;
-}
+} 
